@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital@0;1&family=Fira+Sans+Condensed&family=Josefin+Sans:ital@1&family=Source+Code+Pro:ital,wght@1,500&display=swap');
+
+.app {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  height: 100vh;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: #f8f9fd;
+  background-image: url('school-3596680_640.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+input[type='email'],
+input[type='password'],
+input[type='text'] {
+  height: 35px;
+  border: 1px solid rgba(0, 1, 0, 0.2);
+  border-radius: 8px;
+  background-color: rgb(204, 196, 196);
+  font-size: 15px;
+  width: 300px;
+  position: relative;
+}
+
+.sub {
+  margin-top: 10px;
+  cursor: pointer;
+  font-size: 15px;
+  background: #d38fb7;
+  border: 1px solid #470238;
+  color: black;
+  padding: 10px 20px;
+  border-radius: 9px;
+}
+
+.sub:hover {
+  box-shadow: 0 1px 10px 0 #d63a88 inset, 0 1px 10px 0 #d63a88;
+  text-shadow: 0 0 5px #56286b;
+  position: relative;
+  text-align: center;
+  width: 150px;
+  padding: 15px;
+  font-size: 15px;
+  color: rgb(107, 6, 56);
+  font-family: poppins;
+  font-weight: 100;
+  border: 2px solid #b81e9e;
+  text-transform: uppercase;
+  cursor: pointer;
+  border-radius: 30px;
+  transition: 0.3s;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+
+.login-form {
+  background-color: rgb(255, 255, 255);
+  border: 3px solid #fff;
+  border-radius: 70px 0 70px 0;
+  padding: 2rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+  box-shadow: 8px 5px 3px rgb(204, 39, 154);
+}
+
+.list-container {
+  display: flex;
+}
+
+.error {
+  color: red;
+  font-size: 12px;
+}
+
+.title {
+  font-size: 45px;
+  font-weight: bolder;
+  margin-bottom: 20px;
+  font-family: poppins;
+  background-image: linear-gradient(
+    43deg,
+    #4158d0 0%,
+    #c850c0 46%,
+    #ffcc70 100%
+  );
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 10px;
+}
+.input-container-email {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 10px;
+}
+.para1 {
+  color: #dde752;
+  text-shadow: 4px 2px rgb(128, 3, 107);
+  font-size: 60px;
+  font-weight: bolder;
+  font-family: 'Courgette', cursive;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin: 0%;
+  position: relative;
+  -webkit-box-reflect: below -20px linear-gradient(transparent, rgba(0, 0, 0, 0.2));
+  font-size: 60px;
+}
+.text {
+  text-align: center;
+  margin-top: 20px;
+}
+.input-container span {
+  position: absolute;
+  text-align: end;
+  padding: 36px;
+  margin-left: 230px;
+}

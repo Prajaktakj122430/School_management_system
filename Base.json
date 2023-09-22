@@ -1,0 +1,172 @@
+{
+  "students": [
+    {
+      "id": 2,
+      "name": "Rasika Sawai",
+      "phone": "7869478899",
+      "email": "rasikas12@gmail.com",
+      "standard": "5",
+      "address": "Amravati"
+    },
+    {
+      "id": 3,
+      "name": "salman Mulla",
+      "phone": "9087679825",
+      "email": "sam12@gmail.com",
+      "standard": 3,
+      "address": "Kolhapur"
+    },
+    {
+      "id": 4,
+      "name": "Deepak Gadhave",
+      "phone": "7809674567",
+      "email": "deepakg45@gmail.com",
+      "standard": 10,
+      "address": "Satara"
+    },
+    {
+      "id": 5,
+      "name": "Nikhil Patil",
+      "phone": "7218438909",
+      "email": "nikhilp67@gmail.com",
+      "standard": 8,
+      "address": "Kolhapur"
+    },
+    {
+      "id": 6,
+      "name": "Shweta Hadke",
+      "phone": "7088669844",
+      "email": "swheta70@gmail.com",
+      "standard": 9,
+      "address": "Amravati"
+    },
+    {
+      "id": 7,
+      "name": "Snehal Pise",
+      "phone": "9960167897",
+      "email": "pisesnehal20@gmail.com",
+      "standard": 10,
+      "address": "Pune"
+    },
+    {
+      "id": 8,
+      "name": "Komal Kashani",
+      "phone": "9988796578",
+      "email": "komalk220@gmail.com",
+      "standard": 7,
+      "address": "Amravati"
+    },
+    {
+      "id": 9,
+      "name": "Aishwarya Bhore",
+      "phone": "9960167888",
+      "email": "ab567@gmail.com",
+      "standard": 7,
+      "address": "Karvenagar"
+    },
+    {
+      "id": 5,
+      "name": "Nisha Waghamare",
+      "phone": 9960194825,
+      "email": "nish20@gmail.com",
+      "standard": 1,
+      "address": "Kawathe"
+    },
+    {
+      "id": 11,
+      "name": "Shresh Mahalle",
+      "phone": 9960194825,
+      "email": "shreshm567@gmail.com",
+      "standard": 7,
+      "address": "Amravati"
+    },
+    {
+      "id": 12,
+      "name": "kishor",
+      "phone": 9960194825,
+      "email": "kishor4567@gmail.com",
+      "standard": 7,
+      "address": "Hadpsar"
+    },
+    {
+      "id": 13,
+      "name": "Sarseati",
+      "phone": 9960194825,
+      "email": "saru20@gmail.com",
+      "standard": 7,
+      "address": "Hadpsar"
+    },
+    {
+      "id": 14,
+      "name": "Sarita Jadhav ",
+      "phone": 9960194825,
+      "email": "Sarita220@gmail.com",
+      "standard": 7,
+      "address": "pune"
+    },
+    {
+      "id": 15,
+      "name": "rani",
+      "phone": 9960194825,
+      "email": "rani345670@gmail.com",
+      "standard": 5,
+      "address": "pune"
+    },
+    {
+      "id": 16,
+      "name": "Akshata",
+      "phone": 9960194825,
+      "email": "akshata50@gmail.com",
+      "standard": 4,
+      "address": "pune"
+    },
+    {
+      "id": 17,
+      "name": "Shubham",
+      "phone": 9960194825,
+      "email": "shubham@gmail.com",
+      "standard": 6,
+      "address": "kharadi"
+    },
+    {
+      "name": "Prachi",
+      "email": "Prachi34@gmail.com",
+      "phone": "7028390990",
+      "id": 18,
+      "standard": "8",
+      "address": "wakad"
+    },
+    {
+      "name": "Anvi",
+      "phone": "9960576879",
+      "email": "anvi@gmail.com",
+      "standard": "2",
+      "address": "Pune",
+      "id": 19
+    },
+    {
+      "name": "priya",
+      "phone": "12345",
+      "email": "praju12@gmail.com",
+      "standard": "5",
+      "address": "kotoli",
+      "id": 22
+    },
+    {
+      "name": "Prajakta",
+      "phone": "7028390990",
+      "email": "praju12@gmail.com",
+      "standard": "5",
+      "address": "Satara",
+      "id": 23
+    },
+    {
+      "name": "Prajakta",
+      "phone": "7028390990",
+      "email": "praju12@gmail.com",
+      "standard": "5",
+      "address": "Rahimatpur",
+      "id": 24
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+.logout:hover {
+  background-image: linear-gradient(
+    to right,
+    #fc6076,
+    #ff9a44,
+    #ef9d43,
+    #e75516
+  );
+  box-shadow: 0 4px 15px 0 rgba(252, 104, 110, 0.75);
+}
+.logout {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.logout {
+  background-color: #fc6076;
+  width: 90px;
+  font-size: 16px;
+  font-weight: 600;
+  height: 40px;
+  color: #670c2c;
+  cursor: pointer;
+  margin: 0px;
+
+  text-align: center;
+  border: none;
+  background-size: 300% 100%;
+
+  border-radius: 50px;
+  /* allows you to set all the transition parameters in one line of code */
+  moz-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
+  -webkit-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+  margin-left: 20px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+@media (max-width: 760px) {
+  table th {
+    display: block;
+  }
+
+  table td {
+    display: block;
+  }
+
+  table td::before {
+    content: attr(data-label);
+    display: block;
+    margin-bottom: 5px;
+  }
+  /* nav::before {
+    content: attr(data-label);
+    display: block;
+    margin-bottom: 5px;
+  } */
+}
+/* .listname {
+  position: sticky;
+} */
